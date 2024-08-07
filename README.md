@@ -4,7 +4,7 @@
 The purpose of this repository, is for me to showcase that I have mastered the following from The Odin Project:
 
 - Git
-- Git commit messages
+- Git commit messages (https://www.conventionalcommits.org/en/v1.0.0/)
 - Github
 - Basic HTML
 
