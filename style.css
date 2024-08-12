@@ -21,3 +21,12 @@ body {
     border-radius: 20px;
     padding: 1em;
 }
+
+li {
+    list-style: none;
+    text-indent: -0.7rem;
+}
+
+li::before {
+    content: "🔥 ";
+  }
